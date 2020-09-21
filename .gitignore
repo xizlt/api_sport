@@ -1,0 +1,9 @@
+*.bak
+.idea
+*.sqlite3
+venv/
+media/
+__pycache__\
+*.pyc
+telegram/
+backend/
