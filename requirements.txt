@@ -8,3 +8,4 @@ requests==2.23.0
 gunicorn
 psycopg2
 mysqlclient
+django-cors-headers
